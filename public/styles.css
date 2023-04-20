@@ -37,6 +37,18 @@ body{
     align-items: center;
     justify-content: center ;
 }
+@media screen and (max-width: 850px) {
+.col-right{
+    top: 350px;
+    padding-top: 50px;
+    position: absolute;
+    width: 100%;
+    height: 100%;
+}
+.col-left{
+    top: 50px;
+}
+}
 .coName{
     font-size: 64px;
     font-family: 'Pacifico', cursive;
