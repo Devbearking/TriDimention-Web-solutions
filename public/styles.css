@@ -48,6 +48,10 @@ body{
 .col-left{
     top: 50px;
 }
+.background-deg{
+    left: -250px;
+    transform: skew(20deg);
+}
 }
 .coName{
     font-size: 64px;
